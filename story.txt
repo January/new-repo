@@ -1,2 +1,4 @@
 A long time ago, in a galaxy far, far away...
 ...not much happens
+
+Git is amazing and powerful until it overpowers you.
